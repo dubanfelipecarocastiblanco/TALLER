@@ -10,7 +10,7 @@ namespace _74_Ejer1
     {
         static void Main(string[] args)
         {
-            //Nombres:
+            //Nombres:    carlos pineda y duban caro
 
             //Pag 74.
             //Ejercicio 1
