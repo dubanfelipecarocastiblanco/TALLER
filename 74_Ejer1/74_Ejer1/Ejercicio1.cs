@@ -10,7 +10,8 @@ namespace _74_Ejer1
     {
         static void Main(string[] args)
         {
-            //Nombres: Carlos Steven Pineda Soler / Duban Felipe Caro Castiblanco
+            //Nombres: Carlos Steven Pineda  / Duban Felipe Caro Castiblanco
+            //todo el taller fue realizado por nosotros dos
 
             //Pag 74.
             //Ejercicio 1
